@@ -1,0 +1,20 @@
+.continent {
+  font-size: 3rem;
+  border: 8px solid red;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.country {
+  font-size: 2rem;
+  border: 4px solid green;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.province {
+  font-size: 1rem;
+  padding-left: 2em;
+}
